@@ -1,0 +1,12 @@
+I:\Code Examples\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+I:\Code Examples\Shop\Shop\bin\Debug\Shop.exe.config
+I:\Code Examples\Shop\Shop\bin\Debug\Shop.exe
+I:\Code Examples\Shop\Shop\bin\Debug\Shop.pdb
+I:\Code Examples\Shop\Shop\obj\Debug\Shop.exe
+I:\Code Examples\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\leahm\OneDrive\Documents\PG!2\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\leahm\OneDrive\Documents\PG!2\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\leahm\OneDrive\Documents\PG!2\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\leahm\OneDrive\Documents\PG!2\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\leahm\OneDrive\Documents\PG!2\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\leahm\OneDrive\Documents\PG!2\Shop\Shop\obj\Debug\Shop.pdb
